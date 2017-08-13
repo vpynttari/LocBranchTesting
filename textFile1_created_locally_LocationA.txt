@@ -1,0 +1,1 @@
+Created locally before git.init etc in Location A
