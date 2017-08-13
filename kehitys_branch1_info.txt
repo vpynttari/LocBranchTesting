@@ -1,0 +1,1 @@
+luotiin kehitysbranch location A:ssa lokaalisti, tänne testataan sitten eri featureita brancheinaan.
