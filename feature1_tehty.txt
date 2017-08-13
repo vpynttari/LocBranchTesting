@@ -1,0 +1,5 @@
+t‰‰ll‰ tehtiin uusi feature joka on t‰m‰ file.
+
+Se tehtiin featureBranch1:een, joka koitettiin luodan kehitys_branch1:n alle.
+
+ts. oltiin kehitys_branch1:ss‰ + git checkout -b featureBranch1 kehitys_branch1
